@@ -5,7 +5,7 @@
 
 ## Introduction
 This is a Power BI project on the sales analysis of a pizza store on **Maven Analytics**.
-The project is to analyze and derive insight to answer the crusial question and help the pizza store make data driven decisions.
+The project is to analyze and derive insight to answer the crucial question and help the pizza store make data driven decisions.
 
 ## Problem Statement
 1. Total order per Day, Month, and Quarter
