@@ -50,13 +50,13 @@ $68.16k per month and
 $2.28k per day
 
 ## Conclusion and Recommendations:
-- The 4th quarter recorded the lowest order. this can be attributed to end of summer, as people are more likely to stay inside during winter
+- The fourth quarter recorded the lowest order. this can be attributed to end of summer, as people are more likely to stay inside during winter
 - All the months in the 4th quarter except November peaked past the average order per month. this may be due to Black Friday and Thanksgiving
 - The end of the week (Thursday–Saturday) saw higher orders in comparison to other daysof the week
 - The revenue trend is similar to the order trend except quarter 3, which recorded lower revenue as compared to quarter 2
-- Peak period for orders during the weekdays were between 12-1 pm and 5-6 p.m., which coincided with lunch breaks and the end of work. the peak period fell between 5-8 pm during the weekend 
-- The Class Deluxe was the most ordered pizza. Despite this, it only manage ($38.2k) in revenue behind Thai Chicken($43.4k), Barbecue Chicken($42.8k) and Califonia Chicken($41.4).
-- The Brie Currie Pizza was 480 times, 180 times less than the average(680). it average $23.65 revenue across all sizes making it the most expensive type
+- Peak periods for orders during the weekdays were between 12-1 pm and 5-6 p.m., which coincided with lunch breaks and the end of work. the peak period fell between 5-8 pm during the weekend 
+- The Class Deluxe was the most ordered pizza. Despite this, it only manages ($38.2k) in revenue behind Thai Chicken ($43.4k), Barbecue Chicken ($42.8k), and Califonia Chicken ($41.4k).
+- The Brie Currie Pizza was 480 times less than the average (680). it averages $23.65 revenue across all sizes, making it the most expensive type
 
 # Recommendation:
 
